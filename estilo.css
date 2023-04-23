@@ -1,0 +1,53 @@
+body{
+    background-image: url(R.jpg);
+    background-repeat: no-repeat;
+}
+.Texto {
+    display:flex;
+}
+.Texto1 {
+    margin-left: 50px;
+    margin-top: 30px
+}
+.Texto2 {
+    margin-top: 15px;
+    margin-left: 50px;
+}
+.Texto3 {
+    display: flex;
+}
+.Texto4 {
+    display: flex;
+}
+.Texto5 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.Texto6 {
+    display: flex;
+}
+.Texto7 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.Texto8 {
+    display: flex;
+}
+.Texto9 {
+    margin-top: 33px;
+    margin-left: 50px;
+}
+.Texto10 {
+    display: flex;
+}
+.Texto11 {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.Texto12 {
+    display: flex;
+    margin-right: 80px;
+}
+.Texto13 {
+    margin-left: 10px;
+}
